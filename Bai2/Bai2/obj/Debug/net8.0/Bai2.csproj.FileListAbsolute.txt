@@ -1,0 +1,14 @@
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\bin\Debug\net8.0\Bai2.exe
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\bin\Debug\net8.0\Bai2.deps.json
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\bin\Debug\net8.0\Bai2.runtimeconfig.json
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\bin\Debug\net8.0\Bai2.dll
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\bin\Debug\net8.0\Bai2.pdb
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfoInputs.cache
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.AssemblyInfo.cs
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.csproj.CoreCompileInputs.cache
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.dll
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\refint\Bai2.dll
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.pdb
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\Bai2.genruntimeconfig.cache
+D:\Bài làm các môn\Mẫu thiết kế\Test\Bai2\Bai2\obj\Debug\net8.0\ref\Bai2.dll
