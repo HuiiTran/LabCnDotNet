@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\Bài làm các môn\\Mẫu thiết kế\\Test\\Bai4\\Bai4\\Bai4.csproj": {}
   },
   "projects": {
-    "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\Bài làm các môn\\Mẫu thiết kế\\Test\\Bai4\\Bai4\\Bai4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-        "projectName": "WinFormsApp1",
-        "projectPath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\Bài làm các môn\\Mẫu thiết kế\\Test\\Bai4\\Bai4\\Bai4.csproj",
+        "projectName": "Bai4",
+        "projectPath": "D:\\Bài làm các môn\\Mẫu thiết kế\\Test\\Bai4\\Bai4\\Bai4.csproj",
         "packagesPath": "C:\\Users\\huylo\\.nuget\\packages\\",
-        "outputPath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\Bài làm các môn\\Mẫu thiết kế\\Test\\Bai4\\Bai4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -38,8 +38,8 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -54,9 +54,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
