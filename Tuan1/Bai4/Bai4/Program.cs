@@ -39,7 +39,6 @@ class Program
             }
         }
 
-        // In thông tin các hình (ví dụ)
         foreach (Shape shape in shapes)
         {
             Console.WriteLine($"Diện tích hình: {shape.Area()}");

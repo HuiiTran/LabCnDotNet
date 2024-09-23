@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai4\\Bai4\\Bai4.csproj": {}
+    "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai5\\Bai5\\Bai5.csproj": {}
   },
   "projects": {
-    "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai4\\Bai4\\Bai4.csproj": {
+    "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai5\\Bai5\\Bai5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai4\\Bai4\\Bai4.csproj",
-        "projectName": "Bai4",
-        "projectPath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai4\\Bai4\\Bai4.csproj",
+        "projectUniqueName": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai5\\Bai5\\Bai5.csproj",
+        "projectName": "Bai5",
+        "projectPath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai5\\Bai5\\Bai5.csproj",
         "packagesPath": "C:\\Users\\huylo\\.nuget\\packages\\",
-        "outputPath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai4\\Bai4\\obj\\",
+        "outputPath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan1\\Bai5\\Bai5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
