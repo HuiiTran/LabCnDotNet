@@ -50,3 +50,29 @@
     background-color: #2b94a5;
     color: white;
   }
+
+.listTin{
+  display: flex;
+  background-color: white;
+  height: 80px;
+  width: auto;
+  gap: 5px;
+}
+.small_news_image{
+  padding-top: 3%; padding-left: 3%;
+}
+.small_news_title{
+  font-size: 13px; font-family: sans-serif; padding-right: 2%; 
+}
+
+.big_news_image{
+  padding-top: 3%; padding-left: 3%;
+}
+.big_news_title{
+  padding-left: 3%;font-size: 13px; font-family: sans-serif; padding-right: 3%; 
+}
+
+
+.triplet_honzo_news{
+  height: 210; width: 100%; background-color: white
+}
