@@ -27,6 +27,17 @@ namespace Test.Controllers
             return View(listSpPage);
         }
 
+        public IActionResult SanPhamTheoLoai(String maloai, int? page)
+        {
+            int pageSize = 8;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var listSanPham = db.TDanhMucSps.AsNoTracking().Where(x => x.MaLoai == maloai).OrderBy(x => x.TenSp);
+            PagedList<TDanhMucSp> listSpPage = new PagedList<TDanhMucSp>(listSanPham, pageNumber, pageSize);
+            ViewBag.maloai = maloai;
+    
+            return View(listSpPage);
+        }
+
         public IActionResult Privacy()
         {
             return View();

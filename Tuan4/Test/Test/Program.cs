@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Test.Models;
+using Test.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var connectionString = builder.Configuration.GetConnectionString("QlbanVaLiContext");
+builder.Services.AddDbContext<QlbanVaLiContext>(x => x.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<ILoaiSP, LoaiSP>();
+
 
 var app = builder.Build();
 

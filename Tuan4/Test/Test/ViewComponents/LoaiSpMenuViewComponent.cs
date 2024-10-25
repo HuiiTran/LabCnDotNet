@@ -4,14 +4,14 @@ namespace Test.ViewComponents
 {
     public class LoaiSpMenuViewComponent : ViewComponent
     {
-        private readonly LoaiSP _loaiSp;
+        private readonly ILoaiSP _loaiSp;
 
-        public LoaiSpMenuViewComponent(LoaiSP loaiSp)
+        public LoaiSpMenuViewComponent(ILoaiSP loaiSp)
         {
             _loaiSp = loaiSp;
         }
 
-        public IViewComponentResult Innoker()
+        public IViewComponentResult Invoke()
         {
             var loaisp = _loaiSp.GetAll().OrderBy(x => x.Loai);
             return View(loaisp);
