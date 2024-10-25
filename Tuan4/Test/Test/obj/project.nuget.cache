@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vznLNle5ibzoZ3n6MR4PMu8fFjLkXsLPLIZf/x1daN/QscAotFGDfwthdMsr4GqFaHCGCp5hlzUGVmWFQabSBA==",
+  "dgSpecHash": "S/GuP+d68RhVGO/HKXKq3bUmvliU7VKPZZUpPLji4C7QlPlGilTQtLgaE7nmm4SXUtekOc/WfU0yFNXHsTAKXA==",
   "success": true,
-  "projectFilePath": "D:\\Bài làm các môn\\Mẫu thiết kế\\Test\\Temp\\Test\\Test\\Test.csproj",
+  "projectFilePath": "D:\\LapTrinhDiDong\\New folder\\LabCnDotNet\\Tuan4\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\huylo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\huylo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
