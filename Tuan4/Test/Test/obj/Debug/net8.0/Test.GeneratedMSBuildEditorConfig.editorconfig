@@ -26,6 +26,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\LapTrinhDiDong\New folder\LabCnDotNet\Tuan4\Test\Test
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Areas/Admin/Views/HomeAdmin/ChiTietSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENoaVRpZXRTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNTYW5QaGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Areas/Admin/Views/Share/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/LapTrinhDiDong/New folder/LabCnDotNet/Tuan4/Test/Test/Views/Home/ChiTietSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0U2FuUGhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
