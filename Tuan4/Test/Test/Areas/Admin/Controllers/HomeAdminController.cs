@@ -117,6 +117,7 @@ namespace Test.Areas.Admin.Controllers
             var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
             ViewBag.anhSanPham = anhSanPham;
             return View(sanPham);
+            //helllooo 
         }
     }
 }
